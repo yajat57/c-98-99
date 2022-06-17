@@ -1,0 +1,39 @@
+body{
+    background-color: burlywood;
+}
+.yajat{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    color:aliceblue;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+h4{
+    color: steelblue;
+    font-style: italic;
+    border-radius: 50%;
+}
+#camera{
+    width:500;
+    height:400;
+    border: 1px solid;
+}
+img{
+    box-shadow:06px 8px rgba(2,2,2,0.2);
+    width:40%;
+    border-radius: 2px;
+    padding:10px;
+}
+img:hover{
+
+    border-radius:140px;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
